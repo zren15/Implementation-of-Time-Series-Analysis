@@ -1,4 +1,4 @@
-# Implementation-of-Time-Series-Analysis
+# Implementation of Time Series Analysis
 
 In this repo, our project covers the following points:
 
